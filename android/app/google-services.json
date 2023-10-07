@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "857209672432",
+    "project_id": "fir-appsec2",
+    "storage_bucket": "fir-appsec2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:857209672432:android:bae82d02c781d75e8c6835",
+        "android_client_info": {
+          "package_name": "com.example.firebase_app_sec2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCnSERpBTG7g7v2c5xGlUeknDjeDnP3U4Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
